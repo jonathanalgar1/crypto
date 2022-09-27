@@ -1,4 +1,4 @@
-module golang.org/x/crypto
+module golang.org/x/crypto/v0.0.0
 
 go 1.19
 
